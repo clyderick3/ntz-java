@@ -14,5 +14,6 @@ class NotezTest {
     @Test
     void testApp() {
         assertEquals(1, 1);
+        //The test runs and passes. I'm not sure why.
     }
 }
